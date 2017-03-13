@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard1.1</TargetFramework>
+    <Authors>Prajjwal</Authors>
+    <Company />
+    <Description>A .NET API library for is.gd and v.gd url shortening services.</Description>
+    <RepositoryUrl>https://github.com/prajjwaldimri/is.gd.NET</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/prajjwaldimri/is.gd.NET</PackageProjectUrl>
+    <PackageLicenseUrl>https://github.com/prajjwaldimri/is.gd.NET/blob/master/LICENSE</PackageLicenseUrl>
+    <PackageTags>is.gd, v.gd, url, shortening, net, standard, wpf, uwp</PackageTags>
+    <PackageReleaseNotes>Initial</PackageReleaseNotes>
+  </PropertyGroup>
+
+</Project>
